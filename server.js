@@ -15,8 +15,8 @@ app.get('/',(req,res)=>{
 
 app.get('/data',(req,res)=>{
     res.status(200).send({
-        name : 'Mohammed Awadallah',
-        email : 'Dr.mohammed.j.awadallah@gmail.com'
+        name : 'booony',
+        email : 'boonyhasnonuggies.com'
     })
 })
 
